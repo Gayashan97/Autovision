@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Auto Vision</string>
+    <string name="identify_the_car_make">Identify the Car Make</string>
+    <string name="hints">Hints</string>
+    <string name="identify_the_car_image">Identify the Car Image</string>
+    <string name="advanced_level">Advanced Level</string>
+    <string name="identify">Identify</string>
+    <string name="todo">TODO</string>
+    <string name="select_brand">Select Brand:</string>
+
+    <string name="car1">MERCEDES</string>
+    <string name="car2">HONDA</string>
+    <string name="car3">SUZUKI</string>
+    <string name="car4">KIA</string>
+    <string name="car5">TOYOTA</string>
+    <string name="car6">TOYOTA</string>
+    <string name="car7">NISSAN</string>
+    <string name="car8">NISSAN</string>
+    <string name="car9">KIA</string>
+    <string name="car10">MERCEDES</string>
+    <string name="car11">MERCEDES</string>
+    <string name="car12">HONDA</string>
+    <string name="car13">HONDA</string>
+    <string name="car14">SUZUKI</string>
+    <string name="car15">SUZUKI</string>
+    <string name="car16">KIA</string>
+    <string name="car17">TOYOTA</string>
+    <string name="car18">NISSAN</string>
+    <string name="car19">BMW</string>
+    <string name="car20">BMW</string>
+
+
+</resources>

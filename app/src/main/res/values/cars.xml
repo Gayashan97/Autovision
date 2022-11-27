@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="TOYOTA">
+    <item>AXIO</item>
+    </string-array>
+    <string-array name="NISSAN">
+        <item>LEAF</item>
+    </string-array>
+    <string-array name="KIA">
+        <item>SORENTO</item>
+    </string-array>
+</resources>
